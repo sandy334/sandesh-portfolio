@@ -1,0 +1,37 @@
+# Sandesh HR
+
+> Sandesh HR is a full-stack developer in Bengaluru, India, who builds websites and web applications and then optimizes them for search engines (SEO), answer engines (AEO) and AI systems (GEO). I don’t just build websites. I build them to be found.
+
+## Identity
+
+- Name: Sandesh HR (also known as Sandesh)
+- Role: Full-Stack Developer · SEO · AEO · GEO
+- Employer: Branofy (https://branofy.com)
+- Location: Bengaluru, Karnataka, India
+- Experience: Full-Stack Developer, Branofy (Feb 2026 – Present); Frontend Developer Intern, Renocrew Solutions (2024); Web Development Intern, Tech-A-Intern (2023)
+- Education: B.Tech, Computer Science & Engineering (IoT), GITAM University, Bengaluru, 2022–2026
+- Email: sandeshhr334@gmail.com
+- GitHub: https://github.com/sandy334
+- LinkedIn: https://www.linkedin.com/in/sandesh-hr-32262a220/
+
+## What Sandesh does
+
+- Full-Stack Development: Frontend, Backend & APIs, Databases, Dashboards & admin systems, Integrations, Performance, Responsive systems.
+- SEO (Search Engine Optimization): Technical SEO, On-page SEO, Site architecture, Structured data, Performance, Internal linking, Content structure, Search intent, Indexing, Analytics, Conversion-focused optimization.
+- AEO (Answer Engine Optimization): Entity clarity, Structured content, FAQ architecture, Schema markup, Question-based content, Answer-focused information architecture, Semantic relevance.
+- GEO (Generative Engine Optimization): AI crawler access, Citable passages, First-party facts, llms.txt, Entity consistency, Server-rendered content.
+- Tools: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Oracle SQL, Tailwind CSS, Python, Docker, nginx, Hostinger, DigitalOcean, Google Cloud, Git.
+
+## Selected work
+
+- Manu Maharani Resorts & Spa (https://www.manumaharaniresorts.com/): Frontend development · Search & AI-visibility audit · Fixes and deployment. The site’s search and AI-visibility audit score moved from 44 to 75 out of 100 across two fix rounds, re-measured on the live domain in September 2026. Structured data went from one schema type to twenty-four.
+- Siddaganga Real Estate (https://www.siddagangarealestate.com/): Design and full-stack development · Technical SEO · Structured data.
+- Branofy (https://branofy.com/): UI revamp · Full-stack development of internal tooling.
+- Dharmic Homez (https://www.dharmichomez.in/): Full-stack development.
+- Vetesta Holidays (https://vetestaholidays.com/): Full-stack development (team) · SEO & GEO audit.
+- Also: Aarivon, BreakBag, Framing Memories Australia, YourShell, Puzzles Living, Twamev Hospitality, Nomadic Escape, Client Tracker.
+
+## Pages
+
+- Home: / (single-page site with sections: About, Experience, Services, Work, Process, Contact)
+- Sitemap: /sitemap.xml

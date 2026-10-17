@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://sandy334.github.io/sandesh-portfolio
+Sitemap: https://sandy334.github.io/sandesh-portfolio/sitemap.xml
