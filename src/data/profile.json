@@ -1,0 +1,185 @@
+{
+  "name": "Sandesh HR",
+  "firstName": "Sandesh",
+  "lastName": "HR",
+  "shortName": "Sandesh",
+  "jobTitle": "Full-Stack Developer",
+  "role": "Full-Stack Developer · SEO · AEO · GEO",
+  "roleShort": "Full-Stack · SEO · AEO · GEO",
+  "tagline": "I don’t just build websites. I build them to be found.",
+  "description": "Sandesh HR is a full-stack developer in Bengaluru, India, who builds websites and web applications and then optimizes them for search engines (SEO), answer engines (AEO) and AI systems (GEO). I don’t just build websites. I build them to be found.",
+  "lede": "I build fast, useful digital products, then optimize them so people, search engines and AI systems can actually discover them.",
+  "url": "https://sandeshhr.dev",
+  "email": "sandeshhr334@gmail.com",
+  "location": {
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  "availability": "Working remotely with clients across India and abroad.",
+  "social": {
+    "github": {
+      "url": "https://github.com/sandy334",
+      "handle": "sandy334"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/sandesh-hr-32262a220/",
+      "handle": "Sandesh HR"
+    }
+  },
+  "resume": "/Sandesh_HR_Resume.pdf",
+  "portrait": {
+    "src": "/images/sandesh-hr.jpg",
+    "alt": "Sandesh HR, smiling, photographed outdoors at night in Bengaluru.",
+    "width": 1120,
+    "height": 1400
+  },
+  "employer": {
+    "name": "Branofy",
+    "url": "https://branofy.com"
+  },
+  "education": {
+    "school": "GITAM University, Bengaluru",
+    "schoolShort": "GITAM University",
+    "degree": "B.Tech, Computer Science & Engineering (IoT)",
+    "years": "2022–2026"
+  },
+  "experience": [
+    {
+      "role": "Full-Stack Developer",
+      "company": "Branofy",
+      "period": "Feb 2026 – Present",
+      "current": true
+    },
+    {
+      "role": "Frontend Developer Intern",
+      "company": "Renocrew Solutions",
+      "period": "2024"
+    },
+    {
+      "role": "Web Development Intern",
+      "company": "Tech-A-Intern",
+      "period": "2023"
+    }
+  ],
+  "certifications": [
+    {
+      "issuer": "Zscaler",
+      "name": "Zero Trust Certified Associate"
+    },
+    {
+      "issuer": "ServiceNow",
+      "name": "Flow Designer & UI Designer micro-certifications"
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Smart India Hackathon",
+      "detail": "Internal finalist",
+      "note": "Top 30 of 100+ teams"
+    }
+  ],
+  "tools": {
+    "build": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "MySQL",
+      "Oracle SQL",
+      "Tailwind CSS",
+      "Python"
+    ],
+    "ship": [
+      "Docker",
+      "nginx",
+      "Hostinger",
+      "DigitalOcean",
+      "Google Cloud",
+      "Git"
+    ]
+  },
+  "disciplines": [
+    "Full-Stack Development",
+    "SEO",
+    "AEO",
+    "GEO",
+    "AI & Automation"
+  ],
+  "highlights": [
+    "Full-stack developer",
+    "SEO · AEO · GEO",
+    "Audit score 44 → 75 on a live client site",
+    "Smart India Hackathon finalist",
+    "Zscaler Zero Trust certified",
+    "Based in Bengaluru"
+  ],
+  "bio": {
+    "short": "I’m Sandesh, a full-stack developer at Branofy in Bengaluru. I build websites, web apps and dashboards, then make sure search engines, answer engines and AI systems can find, understand and cite them.",
+    "story": [
+      {
+        "text": "I started by learning how things work."
+      },
+      {
+        "text": "Then I started building them."
+      },
+      {
+        "text": "Two frontend internships. A machine-learning model that classified breast-cancer cases from diagnostic data. A finalist spot at an internal Smart India Hackathon. An AI interview coach built with friends. Then Branofy, where I joined as an intern and shipped real client work: travel platforms, real-estate listings, a resort, a co-living booking flow, an internal CRM.",
+        "tone": "muted"
+      },
+      {
+        "text": "Then I realized building the website was only part of the problem."
+      },
+      {
+        "text": "The next question was:"
+      },
+      {
+        "text": "How does anyone *find* it?",
+        "tone": "question"
+      },
+      {
+        "text": "That led me deeper into SEO, then AEO, then GEO: understanding not only how digital products are built, but how they become discoverable, understandable and citable."
+      },
+      {
+        "text": "Today I work at Branofy as a full-stack developer who also owns the SEO, AEO and GEO layer of what we ship. I moved into that role from the internship where I started, and most weeks I still do both halves: build the thing, then make sure it can be found.",
+        "tone": "muted"
+      }
+    ]
+  },
+  "seo": {
+    "locale": "en_IN",
+    "keywords": [
+      "Sandesh HR",
+      "full-stack developer",
+      "Bengaluru",
+      "SEO",
+      "AEO",
+      "GEO",
+      "answer engine optimization",
+      "generative engine optimization",
+      "Next.js",
+      "React",
+      "technical SEO",
+      "structured data"
+    ],
+    "knowsAbout": [
+      "Full-stack web development",
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Technical SEO",
+      "Structured data (Schema.org)",
+      "Answer Engine Optimization (AEO)",
+      "Generative Engine Optimization (GEO)",
+      "Core Web Vitals",
+      "AI-assisted development and automation"
+    ]
+  },
+  "updated": "2026-09-13",
+  "updatedLabel": "September 2026"
+}

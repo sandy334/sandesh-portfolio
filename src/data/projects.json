@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "manu-maharani",
+    "title": "Manu Maharani Resorts & Spa",
+    "category": "Hospitality · Web · SEO · AEO · GEO",
+    "sector": "Hospitality",
+    "year": "2026",
+    "description": "A riverside resort in Jim Corbett with rooms, safari packages, dining, events and a booking flow. I built the client-facing frontend, then audited the live site for search and AI visibility and shipped the fixes to production.",
+    "role": "Frontend development · Search & AI-visibility audit · Fixes and deployment",
+    "services": [
+      "Frontend",
+      "Technical SEO",
+      "Structured data",
+      "AEO",
+      "GEO",
+      "Local SEO"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Docker",
+      "nginx",
+      "Hostinger VPS"
+    ],
+    "image": {
+      "src": "/images/work/manu-maharani.jpg",
+      "alt": "Homepage of the Manu Maharani Resorts & Spa website.",
+      "width": 1440,
+      "height": 900
+    },
+    "url": "https://www.manumaharaniresorts.com/",
+    "outcome": "The site’s search and AI-visibility audit score moved from 44 to 75 out of 100 across two fix rounds, re-measured on the live domain in September 2026. Structured data went from one schema type to twenty-four.",
+    "featured": true
+  },
+  {
+    "slug": "siddaganga",
+    "title": "Siddaganga Real Estate",
+    "category": "Real Estate · Digital Experience · SEO",
+    "sector": "Real estate",
+    "year": "2026",
+    "description": "A property website for a Mysuru real-estate company: plots, villas, homes and commercial spaces, with filterable listings and statically generated detail pages. Built search-first from day one, so every property page arrives complete for people, Google and AI systems alike.",
+    "role": "Design and full-stack development · Technical SEO · Structured data",
+    "services": [
+      "Full-stack",
+      "Technical SEO",
+      "Schema.org",
+      "Sitemap",
+      "llms.txt",
+      "Performance"
+    ],
+    "stack": [
+      "Next.js 15",
+      "TypeScript",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
+    "image": {
+      "src": "/images/work/siddaganga.jpg",
+      "alt": "Homepage of the Siddaganga Real Estate website.",
+      "width": 1440,
+      "height": 900
+    },
+    "url": "https://www.siddagangarealestate.com/",
+    "note": "RealEstateAgent, ItemList and BreadcrumbList schema, a dynamic sitemap, canonical URLs and an llms.txt for AI crawlers, all generated from one data layer.",
+    "featured": true
+  },
+  {
+    "slug": "branofy",
+    "title": "Branofy",
+    "category": "Digital Systems · Web · AI · Internal Tools",
+    "sector": "Agency",
+    "year": "2026",
+    "description": "Branofy is the AI-powered marketing and web agency where I work. I revamped the UI of the public website and built the Client Tracker, an internal full-stack dashboard the team uses to manage and monitor client work.",
+    "role": "UI revamp · Full-stack development of internal tooling",
+    "services": [
+      "UI design",
+      "Frontend",
+      "Full-stack dashboard",
+      "Deployment"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "image": {
+      "src": "/images/work/branofy.jpg",
+      "alt": "Homepage of the Branofy website.",
+      "width": 1440,
+      "height": 900
+    },
+    "url": "https://branofy.com/",
+    "featured": true
+  },
+  {
+    "slug": "dharmic-homez",
+    "title": "Dharmic Homez",
+    "category": "Real Estate · Web · Project Sites",
+    "sector": "Real estate",
+    "year": "2026",
+    "description": "A luxury real-estate developer with a flagship site, per-project landing sites and an admin CRM behind it. I built the Aurra and Bali project sites and contributed to the wider platform, which ships structured data for search and AI discovery.",
+    "role": "Full-stack development",
+    "services": [
+      "Frontend",
+      "Landing sites",
+      "Enquiry flows",
+      "Structured data"
+    ],
+    "stack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "image": {
+      "src": "/images/work/dharmic-homez.jpg",
+      "alt": "Homepage of the Dharmic Homez website.",
+      "width": 1440,
+      "height": 900
+    },
+    "url": "https://www.dharmichomez.in/",
+    "featured": true
+  },
+  {
+    "slug": "vetesta",
+    "title": "Vetesta Holidays",
+    "category": "Travel · Web · SEO · GEO",
+    "sector": "Travel",
+    "year": "2026",
+    "description": "A tour operator for Kashmir, Ladakh and Himachal with tours, destinations, blogs and an admin backend. I worked on the build with the Branofy team, then ran a full SEO and GEO audit that produced a prioritised, code-level action plan.",
+    "role": "Full-stack development (team) · SEO & GEO audit",
+    "services": [
+      "Full-stack",
+      "Technical SEO",
+      "AI-search readiness",
+      "Audit and roadmap"
+    ],
+    "stack": [
+      "Next.js",
+      "NestJS",
+      "Docker"
+    ],
+    "image": {
+      "src": "/images/work/vetesta.jpg",
+      "alt": "Homepage of the Vetesta Holidays website.",
+      "width": 1440,
+      "height": 900
+    },
+    "url": "https://vetestaholidays.com/",
+    "featured": true
+  },
+  {
+    "slug": "aarivon",
+    "title": "Aarivon",
+    "category": "EdTech · SaaS",
+    "sector": "EdTech",
+    "year": "2026",
+    "description": "EdTech and SaaS platform offering placement services, industry-aligned training and a CRM product for colleges and corporates across India.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "url": "https://aarivon.com/",
+    "featured": false
+  },
+  {
+    "slug": "breakbag",
+    "title": "BreakBag",
+    "category": "Travel",
+    "sector": "Travel",
+    "year": "2026",
+    "description": "Travel platform for a government-affiliated Indian tour operator, with AI-assisted trip planning and group travel across India and beyond.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
+    "url": "https://breakbag.com/",
+    "featured": false
+  },
+  {
+    "slug": "framing-memories",
+    "title": "Framing Memories Australia",
+    "category": "E-commerce",
+    "sector": "Retail",
+    "year": "2026",
+    "description": "Site for a custom photo-framing shop in New South Wales: product showcase, quote requests and backend integration.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "url": "https://framingmemories.com.au/",
+    "featured": false
+  },
+  {
+    "slug": "yourshell",
+    "title": "YourShell",
+    "category": "Co-living",
+    "sector": "Housing",
+    "year": "2026",
+    "description": "PG and co-living booking platform for students and professionals in Bangalore, with room listings, amenities and a booking flow.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "url": "https://yourshell.in/",
+    "featured": false
+  },
+  {
+    "slug": "puzzles-living",
+    "title": "Puzzles Living",
+    "category": "Student housing",
+    "sector": "Housing",
+    "year": "2026",
+    "description": "Landing site for a student accommodation provider running multiple PG and hostel properties across Bangalore.",
+    "role": "End-to-end development",
+    "services": [
+      "Frontend"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS"
+    ],
+    "url": "https://puzzlesliving.com/",
+    "featured": false
+  },
+  {
+    "slug": "twamev",
+    "title": "Twamev Hospitality",
+    "category": "Hospitality",
+    "sector": "Hospitality",
+    "year": "2026",
+    "description": "Marketing site for a luxury resort in Corbett, Uttarakhand.",
+    "role": "Frontend development",
+    "services": [
+      "Frontend"
+    ],
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "url": "https://www.twamevhospitality.com/",
+    "featured": false
+  },
+  {
+    "slug": "nomadic-escape",
+    "title": "Nomadic Escape",
+    "category": "Travel",
+    "sector": "Travel",
+    "year": "2026",
+    "description": "Booking site for a Bangalore weekend-getaway company: curated packages, destination guides and travel blogs.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Tailwind CSS"
+    ],
+    "note": "Not currently online",
+    "featured": false
+  },
+  {
+    "slug": "client-tracker",
+    "title": "Client Tracker",
+    "category": "Internal tool · CRM",
+    "sector": "Internal",
+    "year": "2026",
+    "description": "Full-stack CRM dashboard used inside Branofy to manage, track and monitor client work.",
+    "role": "End-to-end development",
+    "services": [
+      "Full-stack"
+    ],
+    "stack": [
+      "Next.js",
+      "Node.js",
+      "MongoDB"
+    ],
+    "note": "Internal, login only",
+    "featured": false
+  }
+]

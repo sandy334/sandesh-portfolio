@@ -1,0 +1,217 @@
+{
+  "capabilities": [
+    {
+      "num": "01",
+      "title": "Full-Stack Development",
+      "summary": "I build websites, web applications, dashboards, admin systems and digital products around real business requirements, not around a template.",
+      "detail": "React and Next.js on the front, Node.js and databases behind it, deployed on VPS or cloud with Docker and nginx. Server-rendered where it matters, so pages arrive complete for people, crawlers and AI systems alike.",
+      "focus": [
+        "Frontend",
+        "Backend & APIs",
+        "Databases",
+        "Dashboards & admin systems",
+        "Integrations",
+        "Performance",
+        "Responsive systems"
+      ]
+    },
+    {
+      "num": "02",
+      "title": "SEO",
+      "kicker": "Search Engine Optimization",
+      "summary": "Not “ranking on Google”. Technical and strategic visibility: an architecture search engines can crawl, understand and trust, tied to what people are actually searching for.",
+      "detail": "Technical foundations first: crawlable architecture, clean URLs, canonical rules, fast Core Web Vitals, structured data. Then the strategic layer: search intent, content structure, internal linking and analytics that connect visibility to conversions instead of vanity rankings.",
+      "focus": [
+        "Technical SEO",
+        "On-page SEO",
+        "Site architecture",
+        "Structured data",
+        "Performance",
+        "Internal linking",
+        "Content structure",
+        "Search intent",
+        "Indexing",
+        "Analytics",
+        "Conversion-focused optimization"
+      ]
+    },
+    {
+      "num": "03",
+      "title": "AEO",
+      "kicker": "Answer Engine Optimization",
+      "summary": "Search results are increasingly answers, not links. I structure content so answer engines can identify the entity, find the passage and quote it.",
+      "detail": "Answer boxes, voice assistants and AI overviews don’t rank pages, they pick passages. That changes how content has to be written: clear entities, direct questions with direct answers, FAQ structures backed by matching schema, and headings that say what a section actually is.",
+      "focus": [
+        "Entity clarity",
+        "Structured content",
+        "FAQ architecture",
+        "Schema markup",
+        "Question-based content",
+        "Answer-focused information architecture",
+        "Semantic relevance"
+      ]
+    },
+    {
+      "num": "04",
+      "title": "GEO",
+      "kicker": "Generative Engine Optimization",
+      "summary": "Optimization for the next generation of discovery: AI assistants that read the web, then decide what to cite and what to recommend.",
+      "detail": "Search engines index pages. Answer engines extract answers from them. AI systems read, summarize and recommend. The people at the end of that chain only see what survived every step. GEO is making sure a business does: server-rendered pages AI crawlers can actually read, facts stated plainly enough to quote, and one consistent identity across the web.",
+      "focus": [
+        "AI crawler access",
+        "Citable passages",
+        "First-party facts",
+        "llms.txt",
+        "Entity consistency",
+        "Server-rendered content"
+      ],
+      "chain": [
+        "Search engines",
+        "Answer engines",
+        "AI systems",
+        "People"
+      ]
+    }
+  ],
+  "journey": [
+    "Build",
+    "Optimize",
+    "Structure",
+    "Discover",
+    "Grow"
+  ],
+  "needs": [
+    "It needs to be fast.",
+    "It needs to be technically sound.",
+    "It needs to be understandable.",
+    "It needs to be discoverable.",
+    "And it needs to keep improving."
+  ],
+  "beliefs": [
+    {
+      "title": "Build with purpose.",
+      "body": "Technology should solve a real problem. If a feature doesn’t change what someone can do, it’s decoration."
+    },
+    {
+      "title": "Design for humans.",
+      "body": "The system behind the interface can be complex. The experience shouldn’t be."
+    },
+    {
+      "title": "Make it discoverable.",
+      "body": "A beautiful website that nobody finds is an incomplete product."
+    },
+    {
+      "title": "Optimize continuously.",
+      "body": "Launch is the beginning, not the end. Measure, fix, re-measure."
+    },
+    {
+      "title": "Use AI where it actually helps.",
+      "body": "Don’t add AI because it’s fashionable. Use it when it makes the system better, and be honest about when it doesn’t."
+    }
+  ],
+  "evolution": [
+    {
+      "name": "Intern",
+      "desc": "Learned how things work."
+    },
+    {
+      "name": "Builder",
+      "desc": "Started shipping real sites for real clients."
+    },
+    {
+      "name": "Full-Stack",
+      "desc": "Frontend, backend, databases, deployment."
+    },
+    {
+      "name": "SEO",
+      "desc": "Asked how anyone would find them."
+    },
+    {
+      "name": "AEO",
+      "desc": "Structured them so answer engines could quote them."
+    },
+    {
+      "name": "GEO",
+      "desc": "Built them so AI systems could cite them.",
+      "now": true
+    }
+  ],
+  "now": [
+    {
+      "label": "Building",
+      "body": "Client websites, dashboards and internal systems at Branofy."
+    },
+    {
+      "label": "Learning",
+      "body": "How search is changing: AEO, GEO, and how AI systems decide what to cite."
+    },
+    {
+      "label": "Working on",
+      "body": "Search and AI-visibility audits and fixes for live client sites, like Manu Maharani and Vetesta Holidays."
+    },
+    {
+      "label": "Exploring",
+      "body": "How AI changes the way people discover information, and what that means for how websites should be built."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Who is Sandesh HR?",
+      "a": "Sandesh HR is a full-stack developer based in Bengaluru, India, working at Branofy. He builds websites and web applications and optimizes them for search engines (SEO), answer engines (AEO) and AI systems (GEO)."
+    },
+    {
+      "q": "What does Sandesh do?",
+      "a": "Full-stack development end to end: frontend, backend, databases, dashboards and deployment. Then the visibility layer: technical SEO, structured data, answer-engine optimization and generative-engine optimization, so what he builds can be found, understood and cited."
+    },
+    {
+      "q": "What technologies does Sandesh work with?",
+      "a": "JavaScript and TypeScript, React, Next.js, Node.js and Express, MongoDB, MySQL and Oracle SQL, Tailwind CSS and Python. Deployment on Hostinger, DigitalOcean and Google Cloud with Docker and nginx. On the search side: Schema.org structured data, sitemaps, Core Web Vitals tooling and AI-crawler configuration."
+    },
+    {
+      "q": "What services does Sandesh provide?",
+      "a": "Website and web-app development, dashboards and internal tools, technical SEO audits and fixes, structured data, AEO and GEO readiness, and performance optimization. Usually as one continuous engagement: build it, then make it discoverable."
+    },
+    {
+      "q": "What kind of projects does Sandesh build?",
+      "a": "Mostly business websites and platforms: hospitality and travel (Manu Maharani Resorts, Vetesta Holidays, BreakBag), real estate (Siddaganga Real Estate, Dharmic Homez), education and SaaS (Aarivon), e-commerce (Framing Memories Australia) and internal dashboards."
+    }
+  ],
+  "process": [
+    {
+      "step": "Step 01",
+      "title": "Build",
+      "body": "React and Next.js on the front, Node.js and a real database behind it. Built around what the business needs, not around a template.",
+      "list": [
+        "Requirements",
+        "Architecture",
+        "Frontend",
+        "Backend & APIs",
+        "Deployment"
+      ]
+    },
+    {
+      "step": "Step 02",
+      "title": "Optimize",
+      "body": "Crawlable architecture, clean URLs, fast Core Web Vitals and structured data, so search engines can understand and trust the site.",
+      "list": [
+        "Technical SEO",
+        "Core Web Vitals",
+        "Structured data",
+        "Internal linking",
+        "Analytics"
+      ]
+    },
+    {
+      "step": "Step 03",
+      "title": "Get found",
+      "body": "Content answer engines can quote and pages AI systems can read and cite. Then measure, fix and measure again.",
+      "list": [
+        "Entity clarity",
+        "FAQ architecture",
+        "llms.txt",
+        "AI crawler access",
+        "Re-measure"
+      ]
+    }
+  ]
+}
