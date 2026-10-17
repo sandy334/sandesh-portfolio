@@ -1,33 +1,16 @@
 import type { Metadata, Viewport } from 'next';
 import localFont from 'next/font/local';
-import { Instrument_Serif } from 'next/font/google';
 import './globals.css';
+import './v3.css';
 
 import { site } from '@/data/site';
-import { themeInitScript } from '@/lib/theme';
-import { ThemeProvider } from '@/components/theme/ThemeProvider';
-import { RevealObserver } from '@/components/motion/RevealObserver';
 import { JsonLd } from '@/components/seo/JsonLd';
 
-/* Geist (variable) for text and UI, Geist Mono for numbers and labels. Self-hosted. */
+/* Geist (variable), self-hosted. */
 const sans = localFont({
   src: './fonts/GeistVariable.woff2',
   variable: '--font-sans',
   weight: '100 900',
-  display: 'swap',
-});
-const mono = localFont({
-  src: './fonts/GeistMonoVariable.woff2',
-  variable: '--font-mono',
-  weight: '100 900',
-  display: 'swap',
-});
-/* One restrained serif italic for editorial emphasis. Downloaded at build, self-hosted. */
-const serif = Instrument_Serif({
-  subsets: ['latin'],
-  weight: '400',
-  style: 'italic',
-  variable: '--font-serif',
   display: 'swap',
 });
 
@@ -87,30 +70,19 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  colorScheme: 'light dark',
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#f4f2ed' },
-    { media: '(prefers-color-scheme: dark)', color: '#0c0c0d' },
-  ],
+  colorScheme: 'light',
+  themeColor: '#f2f0f1',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" suppressHydrationWarning className={`${sans.variable} ${mono.variable} ${serif.variable}`}>
-      <head>
-        {/* Applies the theme before paint. Must stay inline and first. */}
-        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
-      </head>
+    <html lang="en" className={sans.variable}>
       <body>
         <a href="#main" className="skip-link">
           Skip to content
         </a>
-        <ThemeProvider>{children}</ThemeProvider>
-        <RevealObserver />
+        <div className="v3">{children}</div>
         <JsonLd />
-        <noscript>
-          <style>{`[data-reveal]{opacity:1 !important;transform:none !important}`}</style>
-        </noscript>
       </body>
     </html>
   );

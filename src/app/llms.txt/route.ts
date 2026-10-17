@@ -37,7 +37,7 @@ export function GET() {
     '',
     '## Pages',
     '',
-    '- Home: / (single-page site with sections: Work, What I Do, How I Think, About, Currently, Contact)',
+    '- Home: / (single-page site with sections: About, Experience, Services, Work, Process, Contact)',
     '- Sitemap: /sitemap.xml',
     '',
   ];
