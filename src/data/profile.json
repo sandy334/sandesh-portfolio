@@ -11,6 +11,7 @@
   "lede": "I build fast, useful digital products, then optimize them so people, search engines and AI systems can actually discover them.",
   "url": "https://sandeshhr.dev",
   "email": "sandeshhr334@gmail.com",
+  "contactEndpoint": "https://sandesh-portfolio-contact.sandesh-portfolio-contact.workers.dev",
   "location": {
     "city": "Bengaluru",
     "region": "Karnataka",

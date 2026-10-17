@@ -297,7 +297,7 @@ export default function V3Page() {
               </span>
             </h2>
 
-            <ContactForm email={site.email} firstName={site.firstName} />
+            <ContactForm endpoint={site.contactEndpoint} email={site.email} firstName={site.firstName} />
 
             <div className="v3-contact-foot">
               <div>

@@ -47,3 +47,17 @@ npm run build      # output in out/
 ```
 
 GitHub Pages serves the `gh-pages` branch: this build at the root, and the `v1` build (same command with `/sandesh-portfolio/v1` and `NEXT_PUBLIC_NOINDEX=1`) in `v1/`.
+
+## Contact form
+
+The form posts to a Cloudflare Worker in [`worker/`](worker/), which emails the submission through [Resend](https://resend.com) to the address in `profile.json`. The Resend key lives only as a Worker secret, never in this repo. The Worker URL is `contactEndpoint` in `profile.json`; if it is empty, the form falls back to opening the visitor's email app.
+
+```bash
+cd worker
+npm install
+npx wrangler login
+npx wrangler secret put RESEND_API_KEY   # a send-only key
+npx wrangler deploy
+```
+
+Allowed origins are set in `worker/wrangler.toml`.

@@ -1,0 +1,9 @@
+name = "sandesh-portfolio-contact"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://sandy334.github.io,http://localhost:3000"
+
+# The Resend key is a secret, set once with:
+#   npx wrangler secret put RESEND_API_KEY
